@@ -23,7 +23,7 @@ The deployment closely resembles a production environment using core AWS service
 # 🏗️ Architecture
 
 <p align="center">
-<img src="architecture(2).png" width="900">
+<img src="architecture (2).png" width="900">
 </p>
 
 ---
